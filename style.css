@@ -1,0 +1,48 @@
+#res{
+	border: 3px solid #666;
+	background: #eee;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	padding: 1rem;
+	font-size: 24px;
+	width: 20%;
+	border-radius: 15px;
+	margin-left: 530px;
+	
+}
+
+.text-center{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+
+
+}
+
+#num{
+	border: 3px solid #000;
+	border-radius: 15px;
+	padding: 5px;
+	margin-left: 530px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	font-size: 24px;
+	
+	
+
+}
+
+#get{
+	border: 3px solid #000;
+	border-radius: 15px;
+	padding-left:  8px;
+	padding-right: 8px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 24px;
+	font-weight: bold;
+	margin-left: 530px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	
+}
